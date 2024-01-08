@@ -19,4 +19,4 @@ const ProjectCardData = [
     }
 ]; 
 
-export default ProjectCardDataxs
+export default ProjectCardData
