@@ -33,7 +33,7 @@ const Footer = () => {
 
             <div className="right">
                 <h4>About me</h4>
-                <p>I am a CS student at UBC.</p>
+                <p>I am a Computer Science student at the University of British Columbia, complementing my background in Supply Chain Management with over 3 years of experience. Let's talk some more!</p>
                 <div className="social">
                     <FaLinkedin size={30} style={{ color: "#fff", marginRight: "1rem" }}/>
                 </div>

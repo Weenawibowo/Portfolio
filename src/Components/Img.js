@@ -12,7 +12,7 @@ const Img = () => {
         </div>
         <div className="content">
             <p>Welcome!</p>
-            <h1>Software Engineer in the making</h1>
+            <h1>Aspiring Software Engineer</h1>
             <div>
                 <Link to="/project"
                 className="btn">Projects</Link>
